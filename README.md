@@ -1,7 +1,7 @@
 # Module_5_Challenge
 Project Title: Module 5 Challenge
 
-Description: In this project, we are iterating through a large list of stock data and outputting sums and percentages of information
+Description: In this project, we are analyzing pharmaceutical data off of trials to determine certain outcomes from specific drug regimens.
 
 Getting Started: You will need to open the code in Jupyter Notebook code and have the CSV file ready in resources.
 
